@@ -12,6 +12,7 @@
 /tmp
 /logs
 /feeds
+!/feeds/packages/libs/libmodbus
 /feeds.conf
 /files
 /target/linux/feeds
