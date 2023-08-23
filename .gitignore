@@ -23,6 +23,12 @@
 !/feeds/luci/modules/luci-mod-system
 !/feeds/luci/applications/
 /feeds/luci/applications/*
+/feeds/*
+!/feeds/packages/*
+/feeds/packages/*
+!/feeds/packages/libs/
+/feeds/packages/libs/*
+!/feeds/packages/libs/libmodbus
 /feeds.conf
 /files
 /target/linux/feeds
